@@ -7,6 +7,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 
-<Never forget what you are. The rest of the world will not. Wear it like armor, <and it can never be used to hurt you.
+>Never forget what you are. The rest of the world will not. Wear it like armor, >and it can never be used to hurt you.
 
 (https://www.tvfanatic.com/quotes/let-me-give-you-some-advice-bastard-never-forget-what-you-are/)
